@@ -1,0 +1,43 @@
+generated: '2026-10-24'
+method: probed
+source: https://workgrounds.com/privacy
+signals:
+  data_subject_request:
+    - evidence:
+        - source: https://workgrounds.com/privacy
+          http_status: 200
+          fetched: privacy_page.txt
+          quote: "Users of the Site who reside in the United States may request information about our collection, use, and disclosure of their information (a \"Request to Know\"), including: the categories and specific pieces of Personal Information we have collected about the user; the categories of sources..."
+      section: "Additional Information for Users Residing in the United States"
+      note: Allows US users to request a data access report.
+  subprocessors:
+    - evidence:
+        - source: https://workgrounds.com/privacy
+          http_status: 200
+          fetched: privacy_page.txt
+          quote: "We may use contractors (\"Service Providers\") to perform limited services on our behalf, such as providing email services. Service Providers are required to obtain only the Personal Information they need to deliver the service they were hired to perform, to maintain the confidentiality of Personal Information, and not to use Personal Information for any purpose other than the service they were hired to perform."
+      section: "Third-Party Contractors"
+      note: Describes use of subprocessors and their obligations.
+    - evidence:
+        - source: https://workgrounds.com/privacy
+          http_status: 200
+          fetched: privacy_page.txt
+          quote: "We may share information with businesses that are legally part of the same group as the Company, or that become part of that group."
+      section: "Business Transitions"
+      note: Indicates sharing with affiliated entities during business transitions.
+  incident_notification:
+    - evidence:
+        - source: https://workgrounds.com/privacy
+          http_status: 200
+          fetched: privacy_page.txt
+          quote: "We may disclose your Personal Information if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce any applicable terms of service, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of the Company, our users, yourself or the public."
+      section: "Compliance with Law and Prevention of Harm"
+      note: Outlines circumstances for breach or law‑enforcement notifications.
+  data_retention:
+    - evidence:
+        - source: https://workgrounds.com/privacy
+          http_status: 200
+          fetched: privacy_page.txt
+          quote: "We may occasionally de-identify and/or aggregate Personal Information – to the extent permitted by law – to the point that it can no longer be associated with a particular user. When that occurs, such information is no longer Personal Information."
+      section: "Aggregated and De-identified Data"
+      note: Indicates retention of anonymized data beyond original collection.

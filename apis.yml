@@ -1,25 +1,85 @@
 aid: workgrounds
+
 name: Workgrounds
-description: 'Workgrounds is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by true-ventures) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://workgrounds.com/assets/og-preview.png
+
+description: 'Workgrounds provides an AI-powered platform that automates hotel room block sourcing, booking, and management for corporate travel. By integrating with Slack, Claude, and ChatGPT, Worky enables teams to request, compare, and secure hotel rooms at negotiated rates, reducing planning time by up to 30% and cutting travel costs. The service supports large group trips, offers real-time bidding from hotels, and streamlines expense tracking, making corporate travel more efficient and cost-effective.'
+
 url: https://raw.githubusercontent.com/api-evangelist/workgrounds/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-24 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-24'
+
 modified: '2026-10-24'
+
 tags:
 - Company
-apis: []
+- AI
+- Travel
+- Hotel
+- Automation
+- Corporate
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- true-ventures
+
 common:
+- type: Plans
+  url: plans/workgrounds-plans-pricing.yml
+- type: Compliance
+  url: https://workgrounds.com/trust
+- type: LLMsTxt
+  url: llms/workgrounds-llms.txt
+- type: SecurityTxt
+  url: well-known/workgrounds-help-security.txt
+- type: WellKnown
+  url: well-known/workgrounds-well-known.yml
+- type: Hosts
+  url: hosts/workgrounds-hosts.yml
+- type: Support
+  url: https://help.workgrounds.com/en/
+- type: Login
+  url: https://workgrounds.com/login
+- type: TrustCenter
+  url: security/workgrounds-trust-center.yml
+- type: DomainSecurity
+  url: security/workgrounds-domain-security.yml
 - type: Website
   url: https://workgrounds.com
+- type: Documentation
+  url: https://workgrounds.com/docs
+- type: DeveloperPortal
+  url: https://workgrounds.com/developers
+- type: GettingStarted
+  url: https://workgrounds.com/onboard
+- type: Pricing
+  url: https://workgrounds.com/pricing
+- type: TermsOfService
+  url: https://workgrounds.com/terms
+- type: PrivacyPolicy
+  url: https://workgrounds.com/privacy
+- type: Blog
+  url: https://workgrounds.com/blog
+
+apis: []
+
+x-backed-by:
+- true-ventures
+x-enrichment:
+  date: '2026-10-24'
+  status: enriched
+  artifacts_added: 13
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

@@ -1,0 +1,28 @@
+generated: '2026-10-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://workgrounds.com/pricing
+sources:
+- https://workgrounds.com/pricing
+name: Workgrounds pricing
+audience: business-product
+pricing_basis: per-call
+plans:
+- name: Yearly Commitment
+  price_text: 0% Platform fee on bookings
+  description: 0% platform fee with an annual spend commitment
+  features:
+  - Enterprise features
+  - Unlimited trips and collaborators
+  - Book an onboarding
+- name: Pay Per Trip
+  price_text: 5% Platform fee on bookings
+  description: 5% platform fee on all bookings
+  features:
+  - Unlimited trips
+  - Unlimited collaborators
+  - Book an onboarding
+  - No setup fee
+  - No per-seat charge
+  - No room rate markup
+docs: https://workgrounds.com/pricing

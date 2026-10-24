@@ -1,0 +1,102 @@
+# Workgrounds
+
+> Workgrounds is an AI-powered group hotel booking platform for enterprises. It automates hotel sourcing, negotiation, and booking for corporate room blocks (9+ rooms), helping companies save 20-30% on group travel accommodations.
+
+Every page below is also available as plain markdown - append `.md` to any URL, or fetch the full corpus at [https://workgrounds.com/llms-full.txt](https://workgrounds.com/llms-full.txt).
+
+## Key Pages
+
+- [Workgrounds - Hotel Room Block AI Agents](https://workgrounds.com/) ([markdown](https://workgrounds.com/index.md)): The modern way to book, manage, and reconcile group hotel blocks.
+- [Platform](https://workgrounds.com/platform) ([markdown](https://workgrounds.com/platform.md)): AI agents that source, negotiate, and book group hotel rooms in days, not weeks.
+- [Pricing](https://workgrounds.com/pricing) ([markdown](https://workgrounds.com/pricing.md)): Free for customers. Hotels pay a placement fee.
+- [Customer Stories](https://workgrounds.com/customers) ([markdown](https://workgrounds.com/customers.md)): How teams like RevenueCat, Ramp, SeatGeek, Lithic, and CivicActions use Workgrounds.
+- [Create an account](https://workgrounds.com/signup) ([markdown](https://workgrounds.com/signup.md)): Create a Workgrounds account. Receive an invite to finish setting up your account. No meeting required.
+- [Talk to our team](https://workgrounds.com/onboard) ([markdown](https://workgrounds.com/onboard.md)): An optional 15-minute conversation about hotel sourcing, your next trip, or getting started.
+- [For Hotels](https://workgrounds.com/hotels) ([markdown](https://workgrounds.com/hotels.md)): Join the Workgrounds hotel partner network.
+- [Room Blocks](https://workgrounds.com/room-blocks) ([markdown](https://workgrounds.com/room-blocks.md)): Source and manage group hotel room blocks at any 3+ star hotel worldwide.
+- [Personal Nights](https://workgrounds.com/personal-nights) ([markdown](https://workgrounds.com/personal-nights.md)): Let guests extend stays and pay personal nights on their own card.
+- [AI Hotel Search](https://workgrounds.com/ai-search) ([markdown](https://workgrounds.com/ai-search.md)): Natural-language hotel search across 300,000+ properties.
+- [Guest-Initiated Changes](https://workgrounds.com/guest-initiated-changes) ([markdown](https://workgrounds.com/guest-initiated-changes.md)): Self-serve guest portal for date, room, and attendee changes.
+- [Budget Tracking](https://workgrounds.com/budget-tracking) ([markdown](https://workgrounds.com/budget-tracking.md)): Live travel and event budget tracking across every offsite.
+- [Guest Pages](https://workgrounds.com/guest-pages) ([markdown](https://workgrounds.com/guest-pages.md)): One shareable trip page per guest with dates, hotel, and agenda.
+- [Blog](https://workgrounds.com/blog) ([markdown](https://workgrounds.com/blog.md)): Insights, case studies, and practical guides on group travel and team gatherings.
+- [Customer Stories](https://workgrounds.com/stories) ([markdown](https://workgrounds.com/stories.md)): Real results from real teams.
+
+## Customer Stories
+
+- [How RevenueCat Sources One-of-a-Kind Venues Worldwide for Offsites, Meetups, and Conferences](https://workgrounds.com/stories/revenuecat) ([markdown](https://workgrounds.com/stories/revenuecat.md)): Fintech · Nearly 200 employees · 7 min read
+- [How Ramp Scaled Group Travel to 800+ Employees With New Tools for Large Group Bookings](https://workgrounds.com/stories/ramp) ([markdown](https://workgrounds.com/stories/ramp.md)): Fintech · Feb 28, 2026 · 6 min read
+- [How Block Saved $150,000 Per Trip and Went From Zero to Booked in 48 Hours with Workgrounds](https://workgrounds.com/stories/block) ([markdown](https://workgrounds.com/stories/block.md)): Fintech · Aug 5, 2026 · 5 min read
+- [How SeatGeek Leveraged Scale and Visibility to Capture Group Travel Savings Across 800 Employees](https://workgrounds.com/stories/seatgeek) ([markdown](https://workgrounds.com/stories/seatgeek.md)): Entertainment · Mar 5, 2026 · 5 min read
+- [How Spark Advisors Keeps Group Travel Lean and Transition-Proof with Workgrounds](https://workgrounds.com/stories/spark-advisors) ([markdown](https://workgrounds.com/stories/spark-advisors.md)): Insurance Tech · Apr 2, 2026 · 6 min read
+- [How Calm's EA Team Saved Time on Logistics and Leveled Up Their Company Gatherings](https://workgrounds.com/stories/calm) ([markdown](https://workgrounds.com/stories/calm.md)): Health & Wellness · Jul 22, 2026 · 6 min read
+
+## Blog Posts
+
+- [How Elite Event Planners Decode Unspoken Expectations & Create Successful Company Gatherings](https://workgrounds.com/blog/event-planner-expectations-successful-company-gatherings) ([markdown](https://workgrounds.com/blog/event-planner-expectations-successful-company-gatherings.md)): By Garrett Ullom - June 10, 2026 · Playbook · 6 mins read
+- [The Sweet Spot for Hotel RFPs: How Many Venues to Source for Room Blocks & Events](https://workgrounds.com/blog/hotel-rfp-tool-how-many-venues-to-source) ([markdown](https://workgrounds.com/blog/hotel-rfp-tool-how-many-venues-to-source.md)): By Sarah Maloy - June 10, 2026 · Guide · 6 mins read
+- [Planning a Work-Free Week: One Chief of Staff’s Unique Approach to Team Gatherings](https://workgrounds.com/blog/planning-work-free-week-chief-of-staff-team-gatherings) ([markdown](https://workgrounds.com/blog/planning-work-free-week-chief-of-staff-team-gatherings.md)): By Sarah Maloy - April 3, 2026 · Playbook · 6 mins read
+- [Food and Beverage Minimums: Everything You Need to Know About F&B When Booking Hotel Meeting Spaces and Room Blocks](https://workgrounds.com/blog/food-and-beverage-minimums-hotel-meeting-spaces-room-blocks) ([markdown](https://workgrounds.com/blog/food-and-beverage-minimums-hotel-meeting-spaces-room-blocks.md)): By Sarah Maloy - March 11, 2026 · Guide · 8 mins read
+- [How Lithic Turns $1M+ in Company Gatherings Into Strategic Business Wins](https://workgrounds.com/blog/lithic-company-gatherings-strategic-business-wins) ([markdown](https://workgrounds.com/blog/lithic-company-gatherings-strategic-business-wins.md)): By Sarah Maloy - March 11, 2026 · Playbook · 6 mins read
+- [How PebblePost Completed 2 Months of Problem-Solving Work in 2 Hours](https://workgrounds.com/blog/pebblepost-problem-solving-work-company-gatherings) ([markdown](https://workgrounds.com/blog/pebblepost-problem-solving-work-company-gatherings.md)): By Garrett Ullom - February 10, 2026 · Playbook · 6 mins read
+- [How to Get Real ROI From Your Next Team Gathering](https://workgrounds.com/blog/how-to-get-real-roi-from-your-next-team-gathering) ([markdown](https://workgrounds.com/blog/how-to-get-real-roi-from-your-next-team-gathering.md)): By Garrett Ullom - January 27, 2026 · Playbook · 4 mins read
+- [How to Plan Multi-Stakeholder Conferences Without the Chaos](https://workgrounds.com/blog/how-to-plan-multi-stakeholder-conferences-without-the-chaos) ([markdown](https://workgrounds.com/blog/how-to-plan-multi-stakeholder-conferences-without-the-chaos.md)): By Nikhil Sethi - November 20, 2025 · Playbook · 5 mins read
+- [The MATCH Framework: Turning Team Events Into Revenue Drivers](https://workgrounds.com/blog/the-match-framework) ([markdown](https://workgrounds.com/blog/the-match-framework.md)): By Garrett Ullom - August 19, 2025 · Playbook · 4 mins read
+- [The Hidden Cost of Unstrategic Team Gatherings (And How to Fix It)](https://workgrounds.com/blog/hidden-cost-of-unstrategic-team-gatherings) ([markdown](https://workgrounds.com/blog/hidden-cost-of-unstrategic-team-gatherings.md)): By Garrett Ullom - July 1, 2025 · Playbook · 3 mins read
+- [Perfect Hotel RFPs: Insight from Both Sides of the Negotiation Table](https://workgrounds.com/blog/perfect-hotel-rfps) ([markdown](https://workgrounds.com/blog/perfect-hotel-rfps.md)): By Nikhil Sethi - June 16, 2025 · Playbook · 4 mins read
+- [How Sidecar Health Transformed Their SKO Team Gathering Experience](https://workgrounds.com/blog/sidecar-health-team-gathering) ([markdown](https://workgrounds.com/blog/sidecar-health-team-gathering.md)): By Nikhil Sethi - May 14, 2025 · Playbook · 4 mins read
+- [Connection is Everything: The Case for Intentional In-Person Events](https://workgrounds.com/blog/why-in-person-events-matter) ([markdown](https://workgrounds.com/blog/why-in-person-events-matter.md)): By Garrett Ullom - June 4, 2025 · Playbook · 4 mins read
+- [The Power of In-Person Collaboration - and How To Bring People Together](https://workgrounds.com/blog/how-to-bring-people-together) ([markdown](https://workgrounds.com/blog/how-to-bring-people-together.md)): By Nikhil Sethi - April 21, 2025 · Playbook · 6 mins read
+- [Repeat Founder Duo Raises $2.6M and Launches Workgrounds](https://workgrounds.com/blog/workgrounds-preseed-launch) ([markdown](https://workgrounds.com/blog/workgrounds-preseed-launch.md)): By Nikhil Sethi - November 1, 2024 · Launch · 2 mins read
+
+## Legal
+
+- [Privacy Policy](https://workgrounds.com/privacy) ([markdown](https://workgrounds.com/privacy.md))
+- [Terms of Service](https://workgrounds.com/terms) ([markdown](https://workgrounds.com/terms.md))
+
+## About
+
+Workgrounds uses AI agents to automate the most complex parts of group hotel bookings: sourcing hotels, comparing bids, negotiating group rates, and managing contracts. The platform is free for customers - hotels pay a placement fee.
+
+Founded by Nikhil Sethi. Workgrounds serves enterprise teams including executive assistants, travel managers, finance teams, and employee experience leads who need to book group hotel accommodations for offsites, conferences, summits, and team events.
+
+## Core Capabilities
+
+- AI-powered hotel sourcing and bid comparison for group room blocks
+- Automated RFP generation and hotel negotiation
+- Self-serve room claims for guests (RSVP and claim rooms)
+- Personal nights management (guests book and pay for personal extensions)
+- Consolidated billing and reconciliation (one folio per room block)
+- Contract parsing and normalization (resort fees, taxes, true total cost)
+- Global hotel inventory access (any 3+ star hotel worldwide)
+- HRIS integrations for capacity prediction
+- Retail rate comparison and alternative date analysis
+
+## Key Statistics
+
+- 20-30% average savings on group hotel rates vs retail pricing
+- Optional 15-minute conversation with our team
+- 24-hour hotel bid turnaround
+- 95%+ room block fill rates
+- Customers include Ramp, SeatGeek, Lithic, CivicActions, Yieldmo, RevenueCat, Calm, Sidecar Health
+
+## Pricing Model
+
+Workgrounds is 100% free for companies booking group hotel rooms. Hotels pay a placement fee to access qualified group travel leads. No annual contracts, no hidden fees, no per-user charges.
+
+## FAQ
+
+Q: How does billing work?
+A: Flexible. Workgrounds supports Centralized Billing (one master invoice for room & tax) or Individual Pay (guests pay their own way). You choose per trip.
+
+Q: What counts as a room block?
+A: 20 room nights is the minimum. That's when hotels start treating you like a group with contracts, attrition policies, and negotiated rates.
+
+Q: If hotels pay you, how do I know you're showing me the best options?
+A: Transparency is core to the model. Every bid is ranked by total value to your company, not by commission. You see the full comparison matrix and make the final call.
+
+Q: Can hotels stay on email and send PDFs/Excel?
+A: Absolutely. Hotels reply via email with attachments, and AI agents parse the data into your dashboard. No portal login required.
+
+Q: How do you normalize taxes/fees?
+A: AI agents read the fine print in PDF contracts to extract resort fees, urban fees, and taxes, giving you a true apples-to-apples total cost comparison.

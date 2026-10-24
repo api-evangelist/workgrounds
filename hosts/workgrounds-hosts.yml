@@ -1,0 +1,91 @@
+generated: '2026-10-24'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 6
+  own: 6
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - other
+  - support
+  - website
+hosts:
+- host: api.workgrounds.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: workgrounds.com
+  role: api
+  relation: own
+- host: app.workgrounds.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: workgrounds.com
+  role: other
+  relation: own
+- host: gathering.workgrounds.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: workgrounds.com
+  role: other
+  relation: own
+- host: help.workgrounds.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types:
+  - Support
+  serves:
+  - docs
+  registrable_domain: workgrounds.com
+  role: support
+  relation: own
+- host: trust.workgrounds.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: workgrounds.com
+  role: other
+  relation: own
+- host: workgrounds.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  types:
+  - Compliance
+  - Login
+  - Website
+  - Documentation
+  - DeveloperPortal
+  - GettingStarted
+  - Pricing
+  - TermsOfService
+  - PrivacyPolicy
+  - Blog
+  serves: []
+  registrable_domain: workgrounds.com
+  role: website
+  relation: own

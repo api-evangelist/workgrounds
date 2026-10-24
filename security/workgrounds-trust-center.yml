@@ -1,0 +1,14 @@
+generated: '2026-10-24'
+method: searched
+probe: true
+source: https://workgrounds.com/trust
+url: https://workgrounds.com/trust
+certifications:
+- SOC 2
+- GDPR
+evidence:
+- source: https://workgrounds.com/trust
+  keywords:
+  - soc 2
+  - trust center
+  - gdpr
